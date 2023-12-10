@@ -1,0 +1,1 @@
+{'n': 5, 'Retriever': 'sentence-transformers/all-MiniLM-L6-v2', 'chunk_size': 256, 'kw_hit_rate': 0.72, 'kw_mrr': 0.59, 'vector_hit_rate': 0.36, 'vector_mrr': 0.28, 'total_misses': 25, 'total_questions': 100, 'maxConnections': 32, 'efConstruction': 128, 'ef': 64}
